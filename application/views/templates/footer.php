@@ -261,12 +261,15 @@
     </div>
   </div>
 </div>
-    <script src="<?php echo base_url().'asset/js/default/bootstrap.min.js';?>"></script>
+    <script src="<?php echo base_url().'asset/js/bootstrap.min.js';?>"></script>
+    <script src="<?php echo base_url().'asset/js/plugins/moment.min.js';?>"></script>
+    <script src="<?php echo base_url().'asset/js/plugins/jquery.nicescroll.js';?>"></script>
+    <script src="<?php echo base_url().'asset/js/plugins/jquery.datatables.min.js';?>"></script>
+    <script src="<?php echo base_url().'asset/js/plugins/datatables.bootstrap.min.js';?>"></script>
+    <script src="<?php echo base_url().'asset/js/plugins/newsticker.js';?>"></script>
+    <script src="<?php echo base_url().'asset/js/plugins/sha1.js';?>"></script>  
 
-    <!--<script src="<?php //echo base_url().'asset/js/default/jquery.autocomplete.js';?>"></script>-->
-    <script src="<?php echo base_url().'asset/js/default/sha1.js';?>"></script>
-  
-        
+    <script src="<?php echo base_url().'asset/js/main.js';?>"></script>      
 </body>
 </html>
 <?php ob_end_flush();?>

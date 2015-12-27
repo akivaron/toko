@@ -52,7 +52,7 @@ $autoload['packages'] = array();
 |	$autoload['libraries'] = array('database', 'session', 'xmlrpc');
 */
 
-$autoload['libraries'] = array('database','session','table','email','pagination','curl','pdf'); //
+$autoload['libraries'] = array('encrypt','Excel','excel_reader','form_validation','database','session','table','email','pagination','curl','pdf','fpdf','PDF_Quotation','javascript','template'); //
 
 
 /*
@@ -64,7 +64,7 @@ $autoload['libraries'] = array('database','session','table','email','pagination'
 |	$autoload['helper'] = array('url', 'file');
 */
 
-$autoload['helper'] = array('url','file','form','html','cookie','captcha');
+$autoload['helper'] = array('kolom_helper','to_excel','get_random_password','string','url','file','form','html','cookie','captcha');
 
 
 /*
@@ -80,7 +80,7 @@ $autoload['helper'] = array('url','file','form','html','cookie','captcha');
 |
 */
 
-$autoload['config'] = array();
+$autoload['config'] = array('pdf_config');
 
 
 /*

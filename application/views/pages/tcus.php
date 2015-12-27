@@ -58,10 +58,9 @@
     	<td><?php echo $isi["telp"];?></td>
     	<td><?php echo $isi["fax"];?></td>
     	<td><?php echo $isi["kontak"];?></td>
-		<td><?php echo $isi["norek"];?></td>
-		<td><?php echo $isi["an_rek"];?></td>
+		  <td><?php echo $isi["norek"];?></td>
+		  <td><?php echo $isi["an_rek"];?></td>
     	<td><?php echo $isi["bank"];?></td>
-		
     </tr>	
   	<?php  endforeach;?>
   </table>

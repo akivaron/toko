@@ -25,7 +25,9 @@ if ($mng==='16'): ?>
 </div>
 <?php endif;?>
 <div class="row">
-    <div class="col-xs-12">
+   <div class="panel">
+     <div class="panel-body">
+        <div class="col-xs-12">
         <div class="table-responsive">
         <table class="table">
         <?php 
@@ -261,4 +263,6 @@ if ($mng==='16'): ?>
         </table>
         </div>
     </div>
+     </div>
+   </div>
 </div>

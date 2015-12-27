@@ -1,6 +1,3 @@
-<script src="<?php echo base_url().'asset/js/default/jquery.min.js';?>"></script>
-<script type="text/javascript" src="<?php echo base_url().'asset/js/ticker/jquery-1.8.0.min.js';?>"></script>
-<script type="text/javascript" src="<?php echo base_url().'asset/js/ticker/newsticker.js';?>"></script> 
 <script type="text/javascript">
 $(function(){
   $('#newsticker-container').newsTicker();

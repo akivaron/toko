@@ -269,3 +269,4 @@ Magnetic stripe emulation output,13-03-2015 03:30:58
 
 25,2015-03-17 11:43:06,barang,,Tachometer ALL,Semua Product Brosur,,0,,,r,
 
+1,2015-12-25 08:58:29, delete Data <b>cus</b> , id=<b>idcus</b>

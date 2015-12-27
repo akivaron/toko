@@ -1,27 +1,21 @@
-</div>
-            <!-- /.container-fluid -->
-
-        </div>
-        <!-- /#page-wrapper -->
-
-    </div>
-    <!-- /#wrapper -->
+                </div> <!-- class="col-md-12" -->
+            </div> <!-- id="content" -->
+        </div> <!-- class="container-fluid mimin-wrapper" -->
+    </div> <!-- id="wrapper" -->
     <!-- jQuery  -->
-    
-    
-    <!--<script type="text/javascript">
-    /*window.onbeforeunload = function (e) {
-    e = e || window.event;
+      <!--<script type="text/javascript">
+      /*window.onbeforeunload = function (e) {
+      e = e || window.event;
 
-    // For IE and Firefox prior to version 4
-    if (e) {
-        e.returnValue = 'JVM Said';
-    }
+      // For IE and Firefox prior to version 4
+      if (e) {
+          e.returnValue = 'JVM Said';
+      }
 
-    // For Safari
-    return 'JVM said';*/
-};
-    </script>-->
+      // For Safari
+      return 'JVM said';*/
+    };
+      </script>-->
 
 <!-- Modal -->
 <style type="text/css">

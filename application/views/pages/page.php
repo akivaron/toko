@@ -1,4 +1,3 @@
-<script src="<?php echo base_url().'asset/js/default/jquery.min.js';?>"></script>
 <script type="text/javascript">
   $(document).ready(function(){
     if ($('#cun').val().length==0) {
